@@ -5,13 +5,13 @@ namespace Framework
     [TestFixture]
     public class TestBase
     {
-        [TestFixtureSetUp]
+        [SetUp]
         public static void StartTest()
         {
             Browser.Init();
         }
 
-        [TestFixtureTearDown]
+        [TearDown]
         public static void EndTest()
         {
             Browser.Close();

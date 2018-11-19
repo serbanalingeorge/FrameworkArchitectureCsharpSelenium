@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e8a318d-d313-4b33-8e8e-73d6ca59ff9d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Framework/Framework.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/Framework.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/TestBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/TestBase.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/obj/Debug/Framework.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/obj/Debug/Framework.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/obj/Debug/Framework.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/obj/Debug/Framework.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/SmokeTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/SmokeTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/obj/Debug/TestFramework.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/obj/Debug/TestFramework.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/obj/Debug/TestFramework.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/obj/Debug/TestFramework.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/CHANGES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/NOTICES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/NUnit.Engine.3.9.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/Mono.Cecil.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/nunit-agent-x86.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/nunit-agent-x86.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/nunit-agent.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/nunit-agent.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/nunit.engine.api.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/nunit.engine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/nunit.nuget.addins" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.2.43.0/driver/mac64/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.2.43.0/driver/mac64/chromedriver" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1543951708">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="config" value="1" />
+          <entry key="cs" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="6" />
+          <entry key="Config" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="203" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="203" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestFramework/SmokeTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <marker date="1542654758071" expanded="true" signature="6:191" ph="..." />
+                <marker date="1542654758071" expanded="true" signature="216:842" ph="{...}" />
+                <marker date="1542654758071" expanded="true" signature="275:830" ph="{...}" />
+                <marker date="1542654758071" expanded="true" signature="336:824" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Framework/Pages/LoginPage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1542652528887" expanded="false" signature="6:181" ph="..." />
+                <marker date="1542652528887" expanded="true" signature="208:970" ph="{...}" />
+                <marker date="1542652528887" expanded="true" signature="237:968" ph="{...}" />
+                <marker date="1542652528887" expanded="true" signature="572:633" ph="{...}" />
+                <marker date="1542652528887" expanded="true" signature="683:754" ph="{...}" />
+                <marker date="1542652528887" expanded="true" signature="810:880" ph="{...}" />
+                <marker date="1542652528887" expanded="true" signature="909:962" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Framework/Browser.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1542652528887" expanded="true" signature="6:168" ph="..." />
+                <marker date="1542652528887" expanded="true" signature="189:752" ph="{...}" />
+                <marker date="1542652528887" expanded="true" signature="216:750" ph="{...}" />
+                <marker date="1542652528887" expanded="true" signature="403:445" ph="{...}" />
+                <marker date="1542652528887" expanded="true" signature="598:659" ph="{...}" />
+                <marker date="1542652528887" expanded="true" signature="696:744" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Framework/Extensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1542652528887" expanded="false" signature="6:138" ph="..." />
+                <marker date="1542652528887" expanded="true" signature="159:491" ph="{...}" />
+                <marker date="1542652528887" expanded="true" signature="196:489" ph="{...}" />
+                <marker date="1542652528887" expanded="true" signature="262:483" ph="{...}" />
+                <marker date="1542652528887" expanded="true" signature="288:357" ph="{...}" />
+                <marker date="1542652528887" expanded="true" signature="389:447" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Framework/Pages/ContactUs.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+              <folding>
+                <marker date="1542654748974" expanded="false" signature="6:233" ph="..." />
+                <marker date="1542654748974" expanded="true" signature="260:1973" ph="{...}" />
+                <marker date="1542654748974" expanded="true" signature="289:1971" ph="{...}" />
+                <marker date="1542654748974" expanded="true" signature="1031:1096" ph="{...}" />
+                <marker date="1542654748974" expanded="true" signature="1124:1198" ph="{...}" />
+                <marker date="1542654748974" expanded="true" signature="1245:1302" ph="{...}" />
+                <marker date="1542654748974" expanded="true" signature="1351:1410" ph="{...}" />
+                <marker date="1542654748974" expanded="true" signature="1463:1526" ph="{...}" />
+                <marker date="1542654748974" expanded="true" signature="1579:1642" ph="{...}" />
+                <marker date="1542654748974" expanded="true" signature="1677:1725" ph="{...}" />
+                <marker date="1542654748974" expanded="true" signature="1764:1964" ph="{...}" />
+                <marker date="1542654748974" expanded="true" signature="1790:1863" ph="{...}" />
+                <marker date="1542654748974" expanded="true" signature="1895:1954" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Framework/TestBase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <marker date="1542653009012" expanded="true" signature="43:313" ph="{...}" />
+                <marker date="1542653009012" expanded="true" signature="89:311" ph="{...}" />
+                <marker date="1542653009012" expanded="true" signature="150:198" ph="{...}" />
+                <marker date="1542653009012" expanded="true" signature="255:304" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Framework/packages.config">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Framework/Pages/ContactUs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Framework/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Framework/TestBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Framework/Pages/LoginPage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Framework/Browser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestFramework/SmokeTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Framework/packages.config" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Framework/TestBase.cs" />
+        <option value="$PROJECT_DIR$/TestFramework/SmokeTests.cs" />
+        <option value="$PROJECT_DIR$/Framework/Pages/ContactUs.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1127" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TestFramework" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TestFramework" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Framework" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TestFramework" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Framework" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Pages" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TestFramework" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TestFramework" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e8a318d-d313-4b33-8e8e-73d6ca59ff9d" name="Default Changelist" comment="" />
+      <created>1542652537740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542652537740</updated>
+      <workItem from="1542652539026" duration="102000" />
+      <workItem from="1542652648134" duration="136000" />
+      <workItem from="1542652812598" duration="1944000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2182000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1127" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3294686" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" order="11" visible="true" weight="0.3294686" />
+      <window_info anchor="bottom" id="TeamCity" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Framework/packages.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/TestBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1542653009012" expanded="true" signature="43:313" ph="{...}" />
+            <marker date="1542653009012" expanded="true" signature="89:311" ph="{...}" />
+            <marker date="1542653009012" expanded="true" signature="150:198" ph="{...}" />
+            <marker date="1542653009012" expanded="true" signature="255:304" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Extensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1542652528887" expanded="false" signature="6:138" ph="..." />
+            <marker date="1542652528887" expanded="true" signature="159:491" ph="{...}" />
+            <marker date="1542652528887" expanded="true" signature="196:489" ph="{...}" />
+            <marker date="1542652528887" expanded="true" signature="262:483" ph="{...}" />
+            <marker date="1542652528887" expanded="true" signature="288:357" ph="{...}" />
+            <marker date="1542652528887" expanded="true" signature="389:447" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Pages/LoginPage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1542652528887" expanded="false" signature="6:181" ph="..." />
+            <marker date="1542652528887" expanded="true" signature="208:970" ph="{...}" />
+            <marker date="1542652528887" expanded="true" signature="237:968" ph="{...}" />
+            <marker date="1542652528887" expanded="true" signature="572:633" ph="{...}" />
+            <marker date="1542652528887" expanded="true" signature="683:754" ph="{...}" />
+            <marker date="1542652528887" expanded="true" signature="810:880" ph="{...}" />
+            <marker date="1542652528887" expanded="true" signature="909:962" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestFramework/SmokeTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <marker date="1542654758071" expanded="true" signature="6:191" ph="..." />
+            <marker date="1542654758071" expanded="true" signature="216:842" ph="{...}" />
+            <marker date="1542654758071" expanded="true" signature="275:830" ph="{...}" />
+            <marker date="1542654758071" expanded="true" signature="336:824" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Browser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1542652528887" expanded="true" signature="6:168" ph="..." />
+            <marker date="1542652528887" expanded="true" signature="189:752" ph="{...}" />
+            <marker date="1542652528887" expanded="true" signature="216:750" ph="{...}" />
+            <marker date="1542652528887" expanded="true" signature="403:445" ph="{...}" />
+            <marker date="1542652528887" expanded="true" signature="598:659" ph="{...}" />
+            <marker date="1542652528887" expanded="true" signature="696:744" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Pages/ContactUs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+          <folding>
+            <marker date="1542654748974" expanded="false" signature="6:233" ph="..." />
+            <marker date="1542654748974" expanded="true" signature="260:1973" ph="{...}" />
+            <marker date="1542654748974" expanded="true" signature="289:1971" ph="{...}" />
+            <marker date="1542654748974" expanded="true" signature="1031:1096" ph="{...}" />
+            <marker date="1542654748974" expanded="true" signature="1124:1198" ph="{...}" />
+            <marker date="1542654748974" expanded="true" signature="1245:1302" ph="{...}" />
+            <marker date="1542654748974" expanded="true" signature="1351:1410" ph="{...}" />
+            <marker date="1542654748974" expanded="true" signature="1463:1526" ph="{...}" />
+            <marker date="1542654748974" expanded="true" signature="1579:1642" ph="{...}" />
+            <marker date="1542654748974" expanded="true" signature="1677:1725" ph="{...}" />
+            <marker date="1542654748974" expanded="true" signature="1764:1964" ph="{...}" />
+            <marker date="1542654748974" expanded="true" signature="1790:1863" ph="{...}" />
+            <marker date="1542654748974" expanded="true" signature="1895:1954" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
