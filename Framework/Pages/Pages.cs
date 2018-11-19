@@ -9,6 +9,8 @@ namespace Framework.Pages
 {
     public static class Pages
     {
+        public static LoginPage LoginPage => GetPage<LoginPage>();
+        
         public static ContactUs ContactUs => GetPage<ContactUs>();
 
         public static TopNavigationPage TopNavigation => GetPage<TopNavigationPage>();

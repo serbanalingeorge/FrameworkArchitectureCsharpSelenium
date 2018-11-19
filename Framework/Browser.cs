@@ -12,20 +12,18 @@ namespace Framework
     {
         private static string baseUrl = "https://blog.testproject.io/";
 
-        private static readonly IWebDriver _driver = new ChromeDriver();
-
-        public static void Init()
-        {
-            Goto("");
-        }
+        private static IWebDriver _driver;
 
         public static string Title => _driver.Title;
 
         public static IWebDriver Driver => _driver;
 
-        private static void Goto(string url)
+        public static void Setup()
         {
-            _driver.Url = baseUrl + url;
+            _driver = new ChromeDriver();
+            _driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(5);
+            _driver.Navigate().GoToUrl(baseUrl);
+           
         }
 
 

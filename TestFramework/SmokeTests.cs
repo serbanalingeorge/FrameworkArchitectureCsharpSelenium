@@ -26,6 +26,7 @@ namespace TestFramework
             Pages.ContactUs.ClickSubmit();
             Pages.ContactUs.ValidateMessage();
         }
+
     }
     
     

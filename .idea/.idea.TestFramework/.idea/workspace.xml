@@ -24,28 +24,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e8a318d-d313-4b33-8e8e-73d6ca59ff9d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Framework/Framework.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/Framework.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TestFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TestFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/Browser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/Browser.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/Pages/LoginPage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/Pages/LoginPage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/Pages/Pages.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/Pages/Pages.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Framework/TestBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/TestBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Framework/obj/Debug/Framework.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/obj/Debug/Framework.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Framework/obj/Debug/Framework.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/obj/Debug/Framework.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Framework/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/bin/Debug/Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/bin/Debug/Framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/bin/Debug/Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/bin/Debug/Framework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/obj/Debug/Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/obj/Debug/Framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Framework/obj/Debug/Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Framework/obj/Debug/Framework.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestFramework/SmokeTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/SmokeTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestFramework/obj/Debug/TestFramework.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/obj/Debug/TestFramework.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/bin/Debug/Framework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/bin/Debug/Framework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/bin/Debug/Framework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/bin/Debug/Framework.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/bin/Debug/TestFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/bin/Debug/TestFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/bin/Debug/TestFramework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/bin/Debug/TestFramework.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestFramework/obj/Debug/TestFramework.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/obj/Debug/TestFramework.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/CHANGES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/NOTICES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/NUnit.Engine.3.9.0.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/Mono.Cecil.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/nunit-agent-x86.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/nunit-agent-x86.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/nunit-agent.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/nunit-agent.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/nunit.engine.api.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/nunit.engine.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/NUnit.Engine.3.9.0/lib/nunit.nuget.addins" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.2.43.0/driver/mac64/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Selenium.WebDriver.ChromeDriver.2.43.0/driver/mac64/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/obj/Debug/TestFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/obj/Debug/TestFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFramework/obj/Debug/TestFramework.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestFramework/obj/Debug/TestFramework.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,23 +61,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="config" value="1" />
-          <entry key="cs" value="6" />
+          <entry key="cs" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="6" />
+          <entry key="C#" value="7" />
           <entry key="Config" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="203" />
+          <entry key="cs" value="1195" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="203" />
+          <entry key="C#" value="1195" />
         </counts>
       </usages-collector>
     </session>
@@ -92,13 +87,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestFramework/SmokeTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="435">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
-                <marker date="1542654758071" expanded="true" signature="6:191" ph="..." />
-                <marker date="1542654758071" expanded="true" signature="216:842" ph="{...}" />
-                <marker date="1542654758071" expanded="true" signature="275:830" ph="{...}" />
-                <marker date="1542654758071" expanded="true" signature="336:824" ph="{...}" />
+                <marker date="1542659076292" expanded="true" signature="6:191" ph="..." />
+                <marker date="1542659076292" expanded="true" signature="216:843" ph="{...}" />
+                <marker date="1542659076292" expanded="true" signature="275:831" ph="{...}" />
+                <marker date="1542659076292" expanded="true" signature="336:824" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Framework/Pages/Pages.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+              <folding>
+                <marker date="1542656248352" expanded="false" signature="6:158" ph="..." />
+                <marker date="1542656248352" expanded="true" signature="185:655" ph="{...}" />
+                <marker date="1542656248352" expanded="true" signature="217:652" ph="{...}" />
+                <marker date="1542656248352" expanded="true" signature="509:646" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -107,31 +117,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Framework/Pages/LoginPage.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="548">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
               <folding>
-                <marker date="1542652528887" expanded="false" signature="6:181" ph="..." />
-                <marker date="1542652528887" expanded="true" signature="208:970" ph="{...}" />
-                <marker date="1542652528887" expanded="true" signature="237:968" ph="{...}" />
-                <marker date="1542652528887" expanded="true" signature="572:633" ph="{...}" />
-                <marker date="1542652528887" expanded="true" signature="683:754" ph="{...}" />
-                <marker date="1542652528887" expanded="true" signature="810:880" ph="{...}" />
-                <marker date="1542652528887" expanded="true" signature="909:962" ph="{...}" />
+                <marker date="1542658995305" expanded="true" signature="6:205" ph="..." />
+                <marker date="1542658995305" expanded="true" signature="232:1583" ph="{...}" />
+                <marker date="1542658995305" expanded="true" signature="261:1581" ph="{...}" />
+                <marker date="1542658995305" expanded="true" signature="925:986" ph="{...}" />
+                <marker date="1542658995305" expanded="true" signature="1014:1098" ph="{...}" />
+                <marker date="1542658995305" expanded="true" signature="1156:1270" ph="{...}" />
+                <marker date="1542658995305" expanded="true" signature="1326:1396" ph="{...}" />
+                <marker date="1542658995305" expanded="true" signature="1430:1483" ph="{...}" />
+                <marker date="1542658995305" expanded="true" signature="1522:1574" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Framework/Browser.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="525">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
-                <marker date="1542652528887" expanded="true" signature="6:168" ph="..." />
-                <marker date="1542652528887" expanded="true" signature="189:752" ph="{...}" />
-                <marker date="1542652528887" expanded="true" signature="216:750" ph="{...}" />
-                <marker date="1542652528887" expanded="true" signature="403:445" ph="{...}" />
-                <marker date="1542652528887" expanded="true" signature="598:659" ph="{...}" />
-                <marker date="1542652528887" expanded="true" signature="696:744" ph="{...}" />
+                <marker date="1542655770975" expanded="true" signature="6:168" ph="..." />
+                <marker date="1542655770975" expanded="true" signature="189:777" ph="{...}" />
+                <marker date="1542655770975" expanded="true" signature="216:775" ph="{...}" />
+                <marker date="1542655770975" expanded="true" signature="481:684" ph="{...}" />
+                <marker date="1542655770975" expanded="true" signature="721:769" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -153,11 +166,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Framework/Pages/ContactUs.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+            <state relative-caret-position="127">
+              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
               <folding>
                 <marker date="1542654748974" expanded="false" signature="6:233" ph="..." />
                 <marker date="1542654748974" expanded="true" signature="260:1973" ph="{...}" />
@@ -180,13 +193,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Framework/TestBase.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="150">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding>
-                <marker date="1542653009012" expanded="true" signature="43:313" ph="{...}" />
-                <marker date="1542653009012" expanded="true" signature="89:311" ph="{...}" />
-                <marker date="1542653009012" expanded="true" signature="150:198" ph="{...}" />
-                <marker date="1542653009012" expanded="true" signature="255:304" ph="{...}" />
+                <marker date="1542655770971" expanded="true" signature="43:314" ph="{...}" />
+                <marker date="1542655770971" expanded="true" signature="89:312" ph="{...}" />
+                <marker date="1542655770971" expanded="true" signature="150:199" ph="{...}" />
+                <marker date="1542655770971" expanded="true" signature="256:305" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -205,6 +218,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Framework/Pages/ContactUs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Framework/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Framework/Pages/Pages.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Framework/TestBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Framework/Pages/LoginPage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Framework/Browser.cs" root0="FORCE_HIGHLIGHTING" />
@@ -214,9 +228,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Framework/TestBase.cs" />
-        <option value="$PROJECT_DIR$/TestFramework/SmokeTests.cs" />
         <option value="$PROJECT_DIR$/Framework/Pages/ContactUs.cs" />
+        <option value="$PROJECT_DIR$/Framework/TestBase.cs" />
+        <option value="$PROJECT_DIR$/Framework/Browser.cs" />
+        <option value="$PROJECT_DIR$/Framework/Pages/Pages.cs" />
+        <option value="$PROJECT_DIR$/Framework/Pages/LoginPage.cs" />
+        <option value="$PROJECT_DIR$/TestFramework/SmokeTests.cs" />
       </list>
     </option>
   </component>
@@ -248,12 +265,6 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="TestFramework" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Framework" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="TestFramework" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Framework" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Pages" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -296,12 +307,12 @@
       <updated>1542652537740</updated>
       <workItem from="1542652539026" duration="102000" />
       <workItem from="1542652648134" duration="136000" />
-      <workItem from="1542652812598" duration="1944000" />
+      <workItem from="1542652812598" duration="6060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2182000" />
+    <option name="totallyTimeSpent" value="6298000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,9 +324,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1127" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1126" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Build" />
@@ -330,7 +341,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" order="11" visible="true" weight="0.3294686" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" visible="true" weight="0.32978722" />
       <window_info anchor="bottom" id="TeamCity" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
@@ -363,19 +374,6 @@
     <entry file="file://$PROJECT_DIR$/Framework/packages.config">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Framework/TestBase.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <marker date="1542653009012" expanded="true" signature="43:313" ph="{...}" />
-            <marker date="1542653009012" expanded="true" signature="89:311" ph="{...}" />
-            <marker date="1542653009012" expanded="true" signature="150:198" ph="{...}" />
-            <marker date="1542653009012" expanded="true" signature="255:304" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Framework/Extensions.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -390,52 +388,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Framework/Pages/LoginPage.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1542652528887" expanded="false" signature="6:181" ph="..." />
-            <marker date="1542652528887" expanded="true" signature="208:970" ph="{...}" />
-            <marker date="1542652528887" expanded="true" signature="237:968" ph="{...}" />
-            <marker date="1542652528887" expanded="true" signature="572:633" ph="{...}" />
-            <marker date="1542652528887" expanded="true" signature="683:754" ph="{...}" />
-            <marker date="1542652528887" expanded="true" signature="810:880" ph="{...}" />
-            <marker date="1542652528887" expanded="true" signature="909:962" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestFramework/SmokeTests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <marker date="1542654758071" expanded="true" signature="6:191" ph="..." />
-            <marker date="1542654758071" expanded="true" signature="216:842" ph="{...}" />
-            <marker date="1542654758071" expanded="true" signature="275:830" ph="{...}" />
-            <marker date="1542654758071" expanded="true" signature="336:824" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Framework/Browser.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1542652528887" expanded="true" signature="6:168" ph="..." />
-            <marker date="1542652528887" expanded="true" signature="189:752" ph="{...}" />
-            <marker date="1542652528887" expanded="true" signature="216:750" ph="{...}" />
-            <marker date="1542652528887" expanded="true" signature="403:445" ph="{...}" />
-            <marker date="1542652528887" expanded="true" signature="598:659" ph="{...}" />
-            <marker date="1542652528887" expanded="true" signature="696:744" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Framework/Pages/ContactUs.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+        <state relative-caret-position="127">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
           <folding>
             <marker date="1542654748974" expanded="false" signature="6:233" ph="..." />
             <marker date="1542654748974" expanded="true" signature="260:1973" ph="{...}" />
@@ -450,6 +406,77 @@
             <marker date="1542654748974" expanded="true" signature="1764:1964" ph="{...}" />
             <marker date="1542654748974" expanded="true" signature="1790:1863" ph="{...}" />
             <marker date="1542654748974" expanded="true" signature="1895:1954" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Pages/Pages.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+          <folding>
+            <marker date="1542656248352" expanded="false" signature="6:158" ph="..." />
+            <marker date="1542656248352" expanded="true" signature="185:655" ph="{...}" />
+            <marker date="1542656248352" expanded="true" signature="217:652" ph="{...}" />
+            <marker date="1542656248352" expanded="true" signature="509:646" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Pages/LoginPage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <marker date="1542658995305" expanded="true" signature="6:205" ph="..." />
+            <marker date="1542658995305" expanded="true" signature="232:1583" ph="{...}" />
+            <marker date="1542658995305" expanded="true" signature="261:1581" ph="{...}" />
+            <marker date="1542658995305" expanded="true" signature="925:986" ph="{...}" />
+            <marker date="1542658995305" expanded="true" signature="1014:1098" ph="{...}" />
+            <marker date="1542658995305" expanded="true" signature="1156:1270" ph="{...}" />
+            <marker date="1542658995305" expanded="true" signature="1326:1396" ph="{...}" />
+            <marker date="1542658995305" expanded="true" signature="1430:1483" ph="{...}" />
+            <marker date="1542658995305" expanded="true" signature="1522:1574" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestFramework/SmokeTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <marker date="1542659076292" expanded="true" signature="6:191" ph="..." />
+            <marker date="1542659076292" expanded="true" signature="216:843" ph="{...}" />
+            <marker date="1542659076292" expanded="true" signature="275:831" ph="{...}" />
+            <marker date="1542659076292" expanded="true" signature="336:824" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/TestBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <marker date="1542655770971" expanded="true" signature="43:314" ph="{...}" />
+            <marker date="1542655770971" expanded="true" signature="89:312" ph="{...}" />
+            <marker date="1542655770971" expanded="true" signature="150:199" ph="{...}" />
+            <marker date="1542655770971" expanded="true" signature="256:305" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Framework/Browser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <marker date="1542655770975" expanded="true" signature="6:168" ph="..." />
+            <marker date="1542655770975" expanded="true" signature="189:777" ph="{...}" />
+            <marker date="1542655770975" expanded="true" signature="216:775" ph="{...}" />
+            <marker date="1542655770975" expanded="true" signature="481:684" ph="{...}" />
+            <marker date="1542655770975" expanded="true" signature="721:769" ph="{...}" />
           </folding>
         </state>
       </provider>

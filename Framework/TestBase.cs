@@ -8,7 +8,7 @@ namespace Framework
         [SetUp]
         public static void StartTest()
         {
-            Browser.Init();
+            Browser.Setup();
         }
 
         [TearDown]
