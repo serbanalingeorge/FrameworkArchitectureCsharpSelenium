@@ -11,9 +11,9 @@ namespace Framework.Pages
 {
     public class LoginPage
     {
-        const string _username = "serbanalingeorge";
-        const string _email = "serbanalingeorge@yahoo.com";
-        const string _password = "Test1234!";
+        const string _username = "";
+        const string _email = "";
+        const string _password = "";
         
         [FindsBy(How = How.XPath, Using = "//*[@id=\"loginform\"]/p[1]/label")]
         private IWebElement emailAddressTextField;
