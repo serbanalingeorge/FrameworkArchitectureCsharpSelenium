@@ -18,10 +18,10 @@ namespace TestFramework
 
             NUnit.Framework.Assert.IsTrue(Pages.ContactUs.IsAt());
 
-            Pages.ContactUs.SendYourName("George");
-            Pages.ContactUs.SendYourEmail("serbanalingeorge@yahoo.com");
-            Pages.ContactUs.SendYourSubject("Test");
-            Pages.ContactUs.SendYourMessage("This is a test");
+            Pages.ContactUs.SendYourName("name");
+            Pages.ContactUs.SendYourEmail("email");
+            Pages.ContactUs.SendYourSubject("subject");
+            Pages.ContactUs.SendYourMessage("message");
             Thread.Sleep(5000);
             Pages.ContactUs.ClickSubmit();
             Pages.ContactUs.ValidateMessage();
